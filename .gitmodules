@@ -1,0 +1,3 @@
+[submodule "QKART_FRONTEND"]
+    path = QKART_FRONTEND
+    url = https://github.com/musaddiq2/QKART_FRONTEND.git
